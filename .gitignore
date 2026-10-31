@@ -1,0 +1,22 @@
+# Python virtual environment
+ai-env/
+
+# Environment variables
+.env
+
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# IDE settings
+.vscode/
+.idea/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+HDFC_OptimaSecure_Policy_Doc.pdf
